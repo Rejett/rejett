@@ -1,9 +1,58 @@
-### Olá! Eu sou o Matheus Carmo ! 👋😁
+# Olá, eu sou o Matheus! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdeara%C3%BAjocarmo-dev/)[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@matheusc.dev?_t=8mVj0t7SagP&_r=1)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519986066401)
+Comecei a programar no celular. Sem computador, sem curso caro, só 
+curiosidade e muita vontade de aprender. Esse começo meio improvisado 
+me ensinou algo que carrego até hoje: quando você quer de verdade, 
+encontra um jeito.
 
-<p>            Desenvolvedor Fullstack Jr. com experiência em sistemas financeiros e soluções de pagamento, além de operações e suporte a aplicações em produção. Habilidade comprovada no desenvolvimento e manutenção de sistemas complexos utilizando tecnologias modernas como React, Next.js e Nest.js, TypeScript, Node.js, HTML, CSS, TailwindCSS, ES6+, manipulação do DOM e versionamento de código com Git e GitHub. Possuo Experiência e familiaridade com sistemas utilizando Docker, PostgreSQL, Cassandra, MongoDB, SQL, AWS e Kafka, Java, com arquitetura de sistemas em micro-serviços, e mono Repos aplicação de Clean Code e desenvolvimento de APIs REST. Forte capacidade de colaborar com equipes multifuncionais para entregar produtos de alta qualidade dentro dos prazos estabelecidos. Comunicação eficaz, trabalho em equipe, resolução de problemas, gestão de tempo, adaptabilidade</p>
+Hoje atuo como Desenvolvedor Fullstack Jr. na **Incentive.me**, 
+plataforma de incentivo e engajamento corporativo, contribuindo com 
+correção de bugs e melhoria de aplicações em produção. Antes disso, 
+passei pela **Globals**, onde desenvolvi e mantive sistemas complexos 
+trabalhando com arquitetura de microsserviços, monorepos e APIs REST.
 
-## Tecnologias e Conhecimentos!
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,gitlab,docker,kubernetes,aws,bootstrap,cassandra,elasticsearch,express,firebase,figma,gradle,androidstudio,java,maven,kafka,linux,mongodb,mysql,nestjs,nextjs,nodejs,npm,yarn,postman,py,redux,styledcomponents,ts,ubuntu,vite)](https://skillicons.dev)
+Gosto de código limpo, de resolver problemas que importam e de 
+trabalhar com pessoas que levam o que fazem a sério. Fora do trabalho, 
+costumo construir projetos pessoais para aprender na prática e 
+compartilhar a jornada.
 
+---
+
+## 🛠️ Tecnologias
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Banco de dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [foodpay](https://github.com/Rejett/foodpay) | Cardápio digital com pagamento online | React, TypeScript, Prisma, Node.js |
+| [chat-app](https://github.com/Rejett/chat-app) | Chat em tempo real com autenticação | React, Node.js, Socket.io, MongoDB |
+| [yoom](https://github.com/Rejett/yoom) | Plataforma de videochamadas | Next.js, TypeScript, Clerk |
+| [Ouroboros](https://github.com/Rejett/Ouroboros) | Jogo da cobrinha com fundo interativo e auth | HTML, CSS, JavaScript, Firebase |
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdearaújocarmo-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rejett)
